@@ -1,0 +1,8 @@
+{
+  "test@example.com": {
+    "email": "test@example.com",
+    "password": "1234",
+    "Photo": "media/test.jpg",
+    "Voted": "No"
+  }
+}
